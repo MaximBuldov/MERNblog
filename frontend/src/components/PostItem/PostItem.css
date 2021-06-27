@@ -1,0 +1,21 @@
+.post-item {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+.post-item a {
+  color: #000;
+}
+.post-item h2 {
+  font-weight: bold;
+}
+.post-item p,
+.post-item p a {
+  color: rgba(0, 0, 0, 0.5);
+}
+.post-item p a {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+/*# sourceMappingURL=PostItem.css.map */
